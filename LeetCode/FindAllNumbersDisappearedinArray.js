@@ -27,7 +27,7 @@ var findDisappearedNumbers = function (nums) {
       nums.splice(i + 1, 1);
     }
   }
-  //var firstIndex = nums[0];
+
   // we create the second array which will be complete
 
 
